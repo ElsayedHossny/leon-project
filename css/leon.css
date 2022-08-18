@@ -64,6 +64,7 @@ body {
 /* start header */
 .header {
     padding: 20px;
+        background: url(/images/landing.jpg);
 }
 
 .header .container {
@@ -156,7 +157,7 @@ body {
 /* end heading */
 /* start ladding */
 .ladding {
-    background: url("/images/about.jpg");
+    background: url(/images/landing.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
