@@ -477,7 +477,7 @@ body {
 }
 
 .contact .content-contact .person .social i {
-    color: blue;
+    color: var(--second-color);
 }
 
 .contact .content-contact .person:hover .social i {
